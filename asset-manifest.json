@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Visualization-Sort-Algo/static/css/main.c9d2f12f.chunk.css",
+    "main.js": "/Visualization-Sort-Algo/static/js/main.d9aee768.chunk.js",
+    "main.js.map": "/Visualization-Sort-Algo/static/js/main.d9aee768.chunk.js.map",
+    "runtime-main.js": "/Visualization-Sort-Algo/static/js/runtime-main.85faca18.js",
+    "runtime-main.js.map": "/Visualization-Sort-Algo/static/js/runtime-main.85faca18.js.map",
+    "static/js/2.209b14f4.chunk.js": "/Visualization-Sort-Algo/static/js/2.209b14f4.chunk.js",
+    "static/js/2.209b14f4.chunk.js.map": "/Visualization-Sort-Algo/static/js/2.209b14f4.chunk.js.map",
+    "static/js/3.f2b26fda.chunk.js": "/Visualization-Sort-Algo/static/js/3.f2b26fda.chunk.js",
+    "static/js/3.f2b26fda.chunk.js.map": "/Visualization-Sort-Algo/static/js/3.f2b26fda.chunk.js.map",
+    "index.html": "/Visualization-Sort-Algo/index.html",
+    "static/css/main.c9d2f12f.chunk.css.map": "/Visualization-Sort-Algo/static/css/main.c9d2f12f.chunk.css.map",
+    "static/js/2.209b14f4.chunk.js.LICENSE.txt": "/Visualization-Sort-Algo/static/js/2.209b14f4.chunk.js.LICENSE.txt",
+    "static/media/Logo.c75d1d34.svg": "/Visualization-Sort-Algo/static/media/Logo.c75d1d34.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85faca18.js",
+    "static/js/2.209b14f4.chunk.js",
+    "static/css/main.c9d2f12f.chunk.css",
+    "static/js/main.d9aee768.chunk.js"
+  ]
+}
