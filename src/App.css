@@ -1,0 +1,31 @@
+.Topbar{
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 1em 1em 1em;
+}
+.middle{
+  display: flex;
+  margin-right: 10px;
+}
+.Lable{
+  margin-right: 5px;
+}
+.algos{
+  margin-right: 30px;
+}
+.Current{
+  align-items: center;
+  display: inline-flex;
+}
+.options{
+  display: flex;
+
+}
+.Top{
+  top: 0px;
+  position: static;
+}
+.App{
+  display: block;
+}
